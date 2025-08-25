@@ -34,9 +34,10 @@ A production-quality React Native Todo application built with Expo, TypeScript, 
 ## 📸 Screenshots
 
 ![Home Screen](./assets/screenshots/home.png)
+![Empty Screen](./assets/screenshots/empty.png)
 ![Add Screen](./assets/screenshots/add.png)
 ![Edit Screen](./assets/screenshots/editor.png)
-![Delete](./assets/screenshots/delete.png)
+![Swipe Delete](./assets/screenshots/delete.png)
 ![Dark Mode](./assets/screenshots/dark-mode.png)
 
 ## 🛠️ Tech Stack
@@ -224,5 +225,3 @@ This project was built with portfolio presentation in mind:
 - **Date Picker UX**: Spinner-style date picker with theme-aware colors and proper constraints
 - **Smart Sorting**: Active todos first (newest), completed todos by completion date automatically reordered
 - **Type-Safe Store**: Fully typed Zustand store with proper TypeScript inference and persistence
-
-Perfect for demonstrating React Native expertise, TypeScript proficiency, modern state management, and mobile development best practices.
