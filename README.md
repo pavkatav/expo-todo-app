@@ -33,10 +33,10 @@ A production-quality React Native Todo application built with Expo, TypeScript, 
 
 ## 📸 Screenshots
 
-<!-- Add your app screenshots here -->
-
 ![Home Screen](./assets/screenshots/home.png)
+![Add Screen](./assets/screenshots/add.png)
 ![Edit Screen](./assets/screenshots/editor.png)
+![Delete](./assets/screenshots/delete.png)
 ![Dark Mode](./assets/screenshots/dark-mode.png)
 
 ## 🛠️ Tech Stack
@@ -174,33 +174,6 @@ interface Todo {
 - **Efficient Filtering**: Combined search/filter/sort pipeline in computed selector
 - **Gesture Handling**: Optimized swipe-to-delete with both tap and full-swipe options
 - **Smooth Animations**: React Native Reanimated for completion state changes
-
-## 📱 Portfolio Tips
-
-### Recording App Demos
-
-1. **iOS Simulator**: Use QuickTime Screen Recording
-2. **Android Emulator**: Use Android Studio's recording feature
-3. **Web**: Use browser dev tools or screen recording software
-
-### Screenshot Locations
-
-- Create `/assets/screenshots/` directory
-- Recommended screenshots:
-  - `home.png` - Main screen with todos
-  - `editor.png` - Add/edit todo screen
-  - `dark-mode.png` - Dark theme showcase
-  - `empty-state.png` - Empty state illustration
-
-### Key Features to Highlight
-
-- **Enhanced Gestures** - Demonstrate both tap-to-delete and full swipe-to-delete
-- **Smooth Animations** - Show completion animations with scale/opacity effects
-- **Improved Theming** - Showcase enhanced dark mode with better contrast
-- **Visual Consistency** - Highlight unified 12px border radius design
-- **Better UX** - Show improved checkbox visibility and filter chip styling
-- **Date Picker** - Demonstrate spinner-style date picker with theme awareness
-- **Cross-platform** - Screenshots from iOS, Android, and Web
 
 ## 🔧 Customization
 
